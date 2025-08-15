@@ -37,7 +37,7 @@ A URL base para todos os endpoints é `http://localhost:8080/api/game`.
 | `/nova-rodada`    | `POST` | Reseta o estado da rodada para jogar novamente. | N/A                                           |
 | `/status`         | `GET`  | Retorna o placar atual do jogo.                | N/A                                           |
 
-## 🚀 Como Executar Localmente
+## 🚀 Como executar
 
 1.  **Clone o repositório:**
     ```bash
