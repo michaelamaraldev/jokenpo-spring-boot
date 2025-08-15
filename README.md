@@ -53,4 +53,4 @@ A URL base para todos os endpoints é `http://localhost:8080/api/game`.
     ```
 4.  A API estará disponível em http://localhost:8080. Você pode usar o Postman (como eu usei) ou outra ferramenta para testar os endpoints. :)
 
-5.  Muito obrigado!!!
+## Muito obrigado!!!
